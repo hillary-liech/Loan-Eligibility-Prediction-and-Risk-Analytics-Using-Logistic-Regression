@@ -1,1 +1,3 @@
 # Loan-Eligibility-Prediction-and-Risk-Analytics-Using-Logistic-Regression
+
+I undertook this project to explore and analyze the factors influencing loan approval decisions in the context of consumer finance. By conducting a thorough exploratory data analysis (EDA), I aimed to uncover patterns and insights that can help financial institutions make more informed, data-driven decisions when approving loans. The primary goal was to understand how factors like credit history, income, education, and marital status impact the likelihood of loan approval, thus reducing risk and ensuring fair and efficient lending processes. This project not only sharpens my data analysis and modeling skills but also provides practical insights into a critical area of the financial industry.
